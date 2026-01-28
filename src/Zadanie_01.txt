@@ -1,0 +1,10 @@
+1. Algorytm Euklidesa odejmowanie
+2. Algorytm Euklidesa modulo
+3. Fibonacci n-ty wyraz iteracyjnie
+4. Fibonacci n-ty wyraz rekrencyjnie
+5. Silnia n-ta iteracyjnie
+6. Silnia n-ta rekrencyjnie
+7. Algorytm Hornera
+8. Suma cyfr liczby
+9. Liczby pierwsze w przedziale <n, m>
+10.Wypisanie dzielników w przedziału <k, l> liczby x
